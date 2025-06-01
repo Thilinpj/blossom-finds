@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\clip1.jpg",
+      "PackagePath": "staticwebassets\\images\\clip1.jpg"
+    },
+    {
+      "Id": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\pouch01.jpg",
+      "PackagePath": "staticwebassets\\images\\pouch01.jpg"
+    },
+    {
+      "Id": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\pouch1.jpg",
+      "PackagePath": "staticwebassets\\images\\pouch1.jpg"
+    },
+    {
+      "Id": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\scarf01.jpg",
+      "PackagePath": "staticwebassets\\images\\scarf01.jpg"
+    },
+    {
+      "Id": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\scarf1.jpg",
+      "PackagePath": "staticwebassets\\images\\scarf1.jpg"
+    },
+    {
+      "Id": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\scrunchie01.jpg",
+      "PackagePath": "staticwebassets\\images\\scrunchie01.jpg"
+    },
+    {
+      "Id": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\scrunchie1.jpg",
+      "PackagePath": "staticwebassets\\images\\scrunchie1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlossomFinds.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlossomFinds.Api.props",
+      "PackagePath": "build\\BlossomFinds.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlossomFinds.Api.props",
+      "PackagePath": "buildMultiTargeting\\BlossomFinds.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlossomFinds.Api.props",
+      "PackagePath": "buildTransitive\\BlossomFinds.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
