@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlossomFinds.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4514b22d88c6915c6d4056152d9496e0eeb579b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37c9d43007367b7ece3428e53ba1f0c60b410bb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlossomFinds.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlossomFinds.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
