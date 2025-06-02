@@ -194,3 +194,4 @@ D:\1Interviews2025\blossom-finds-main\BlossomFinds.Api\bin\Debug\net8.0\runtimes
 D:\1Interviews2025\blossom-finds-main\BlossomFinds.Api\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\1Interviews2025\blossom-finds-main\BlossomFinds.Api\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\1Interviews2025\blossom-finds-main\BlossomFinds.Api\bin\Debug\net8.0\BlossomFinds.Api.staticwebassets.runtime.json
+D:\1Interviews2025\blossom-finds-main\BlossomFinds.Api\obj\Debug\net8.0\BlossomFinds.Api.sourcelink.json
