@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O/98zcX4PJZTQ/fTUcoUKDqUHwDm9S5fgO5ZCzEwaAg=",
+  "Hash": "DFaRdLb7L27Vhm7L3ltnY7mM6rbeccy/DQ/uthElkfQ=",
   "Source": "BlossomFinds.Api",
   "BasePath": "_content/BlossomFinds.Api",
   "Mode": "Default",
@@ -36,25 +36,6 @@
       "OriginalItemSpec": "wwwroot\\images\\clip1.jpg"
     },
     {
-      "Identity": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\pouch01.jpg",
-      "SourceId": "BlossomFinds.Api",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\",
-      "BasePath": "_content/BlossomFinds.Api",
-      "RelativePath": "images/pouch01.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\pouch01.jpg"
-    },
-    {
       "Identity": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\pouch1.jpg",
       "SourceId": "BlossomFinds.Api",
       "SourceType": "Discovered",
@@ -72,25 +53,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\pouch1.jpg"
-    },
-    {
-      "Identity": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\scarf01.jpg",
-      "SourceId": "BlossomFinds.Api",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\",
-      "BasePath": "_content/BlossomFinds.Api",
-      "RelativePath": "images/scarf01.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\scarf01.jpg"
     },
     {
       "Identity": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\scarf1.jpg",
@@ -112,25 +74,6 @@
       "OriginalItemSpec": "wwwroot\\images\\scarf1.jpg"
     },
     {
-      "Identity": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\scrunchie01.jpg",
-      "SourceId": "BlossomFinds.Api",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\",
-      "BasePath": "_content/BlossomFinds.Api",
-      "RelativePath": "images/scrunchie01.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\scrunchie01.jpg"
-    },
-    {
       "Identity": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\scrunchie1.jpg",
       "SourceId": "BlossomFinds.Api",
       "SourceType": "Discovered",
@@ -148,6 +91,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\scrunchie1.jpg"
+    },
+    {
+      "Identity": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\scrunchie2.jpg",
+      "SourceId": "BlossomFinds.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\",
+      "BasePath": "_content/BlossomFinds.Api",
+      "RelativePath": "images/scrunchie2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\scrunchie2.jpg"
+    },
+    {
+      "Identity": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\images\\scrunchie3.jpg",
+      "SourceId": "BlossomFinds.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\1Interviews2025\\blossom-finds-main\\BlossomFinds.Api\\wwwroot\\",
+      "BasePath": "_content/BlossomFinds.Api",
+      "RelativePath": "images/scrunchie3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\scrunchie3.jpg"
     }
   ]
 }
